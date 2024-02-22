@@ -7,9 +7,5 @@ func main() {
 	var card string = "Ace of spades"
 	card = newCard()
 	fmt.Println(card)
-	
-}
 
-func newCard() string {
-	return ("new card")
 }
